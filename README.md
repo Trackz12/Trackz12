@@ -2,7 +2,7 @@
 
 Estudante de Técnico em Automação Industrial no IFSP, campus Sertãozinho, e estagiário de Suprimentos. Meu foco é **TI e dados**: gosto de usar tecnologia para organizar informação e deixar processos mais simples e eficientes.
 
-🌐 [lucas-candido.vercel.app](https://lucas-candido.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/lucas-candido-martins-0096552b7) · 📍 Sertãozinho, SP
+Site: [lucas-candido.vercel.app](https://lucas-candido.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lucas-candido-martins-0096552b7) · Sertãozinho, SP
 
 ## Projetos
 
